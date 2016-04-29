@@ -10,7 +10,7 @@
 
 ## 雑な概要
 public/index.htmlの20行らへんが接続URL
-> // 接続先の指定(192.168.8.89)
+> // 接続先の指定(192.168.8.89)  
 > var url = "http://" + window.location.hostname + ":8080";
 
 ..みたいなところ。
